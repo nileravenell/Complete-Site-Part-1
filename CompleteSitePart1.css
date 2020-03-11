@@ -1,0 +1,15 @@
+#headers {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:xx-large;
+    color:darkslategray
+}
+#subheader {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    color: darkblue;
+}
+.content {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color: darkblue;
+}
